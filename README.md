@@ -98,3 +98,6 @@ flutter run
 ```bash
 flutter test
 ```
+
+# trading_app
+
